@@ -6,7 +6,7 @@ Yeah, welcome to NTI64, this is a little project I'm doing because what else are
 
 ## DISCLAIMER
 
-This project is assisted throught the help of AI. Specifically, Claude, ChatGPT, and a hint of Gemeni. I am not lazy making this project though, I send it very long and very detailed list of what I want accomplished for each version. If this is something that turns you away, I do apologize.
+This project is assisted throught the help of AI. Specifically, Claude Opus 5.5, ChatGPT, Qwen 3.5 9B, and a hint of Gemeni. I am not lazy making this project though, I send it very long and very detailed list of what I want accomplished for each version. If this is something that turns you away, I do apologize.
 ## What Is NTI64?
 
 Ok... We got a little bit to unpack here. So, NTI64 is a native port of SM64 for your browser(Windows, Linux, and Mac support expected in future updates!) that has singleplayer and a whole variety of multiplayer modes. In general, this isn't your usual SM64 web port, as you'll soon see...
